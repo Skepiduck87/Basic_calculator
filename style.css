@@ -68,6 +68,12 @@ button{
 .equal{
     background: #8D8D8D;
 }
+button:hover{
+    color: bisque;
+}
+button:active{
+    background: #d9d9d980;
+}
 @media screen and (max-height: 800px){
     .body{
         width: 100%;

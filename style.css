@@ -68,3 +68,16 @@ button{
 .equal{
     background: #8D8D8D;
 }
+@media screen and (max-height: 800px){
+    .body{
+        width: 100%;
+        max-width: 320px;
+        height: 100%;
+        max-height: 590px;
+        background: #101010;
+        margin: 10% auto;
+        padding: 15px 10px 28px;
+        border-radius: 25px;
+        
+    }
+}
